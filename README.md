@@ -6,4 +6,4 @@ A CSV database of video games were converted into C++ objects, which were then u
 
 The amount of memory that each method used (based on the number of reads and writes performed) was recorded and analyzed.
 
-This project was created using JetBrains CLion. To run this program you can clone this repo to CLion and run it from there, otherwise you will have to download the CMake program in order to compile and run the binaries.
+This project was created using JetBrains CLion. To run this program you can clone this repo to CLion and run it from there, otherwise you will have to run CMAKE through another means in order to compile and run the binaries.
